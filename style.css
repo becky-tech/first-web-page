@@ -1,0 +1,39 @@
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 2px 3px 1px white;
+    color: blue;
+} 
+p{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+
+}
+h3{
+    background-color: white;
+}
+.para{
+    font-style: italic;
+    font-size: 15px;
+}
+html{
+    background-color: grey;
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+}
+a:link, a:visited {
+    background-color: dimgray;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    border: 3px solid blue;
+
+}
+ a:hover{
+background-color: deepskyblue;
+}
